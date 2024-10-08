@@ -1,2 +1,2 @@
-# B-rthday-Calculator-Basic-Html
+# Birthday-Calculator-Basic-Html
 Calculate Birthday 
